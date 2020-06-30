@@ -1,6 +1,6 @@
 ## Deep Q-Learning
 
-**Adapted for PyTorch**
+**\*\*\*Adapted for PyTorch!*\*\***
 
 ### Learning Goals
 
