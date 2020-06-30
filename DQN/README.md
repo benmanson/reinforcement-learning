@@ -1,5 +1,7 @@
 ## Deep Q-Learning
 
+**Adapted for PyTorch**
+
 ### Learning Goals
 
 - Understand the Deep Q-Learning (DQN) algorithm
