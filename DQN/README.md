@@ -1,5 +1,7 @@
 ## Deep Q-Learning
 
+**\*\*\*Adapted for PyTorch!*\*\***
+
 ### Learning Goals
 
 - Understand the Deep Q-Learning (DQN) algorithm
@@ -29,12 +31,13 @@
 **Optional:**
 
 - [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
-- [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461)
-- [Prioritized Experience Replay](http://arxiv.org/abs/1511.05952)
+- [Deep Q Learning with PyTorch](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+- [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf)
+- [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)
 
 **Deep Learning:**
 
-- [Tensorflow](http://www.tensorflow.org)
+- [Torch](https://pytorch.org/docs)
 - [Deep Learning Books](http://www.deeplearningbook.org/)
 
 ### Exercises
